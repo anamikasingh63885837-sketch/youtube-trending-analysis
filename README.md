@@ -1,5 +1,7 @@
 # YouTube Trending Videos Analysis (India)
 
+![Dashboard](dashboard.png)
+
 Exploratory analysis of what characterises videos on YouTube's trending list in India.
 
 ## Data
